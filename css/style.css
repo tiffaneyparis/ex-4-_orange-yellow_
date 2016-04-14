@@ -1,0 +1,10 @@
+html {
+  height: 100%;
+}
+
+body {
+ background: linear-gradient(to bottom, rgba(230,148,4,1) 0%, rgba(244,176,3,1) 5%, rgba(244,176,3,1) 29%, rgba(234,139,4,1) 38%, rgba(215,48,6,1) 48%, rgba(215,48,6,1) 100%);
+  box-shadow: inset 0px 10px 10px 100px rgba(220,107,4,1);
+      min-height: 100%;
+}
+
